@@ -1,0 +1,9 @@
+01_Dataset/
+*.pbix
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
