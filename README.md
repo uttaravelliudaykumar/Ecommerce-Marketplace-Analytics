@@ -22,7 +22,7 @@ The project explores marketplace performance across sales, customers, products, 
 **Dataset link:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 The dataset contains nine CSV files covering customers, orders, order items, payments, reviews, products, sellers, geolocation, and product category translations.
-
+**Note:** The original and cleaned CSV datasets are not included in this repository. Download the dataset from Kaggle using the link above.
 ## Tools and Technologies
 
 | Tool | Purpose |
@@ -79,12 +79,7 @@ Examines payment methods, transaction values, payment activity, and installment 
 
 ## Repository Structure
 
-```text
-Ecommerce_Marketplace_Analytics/
-│
-├── 01_Dataset/
-│   ├── Cleaned/
-│   └── Original CSV files
+Ecommerce-Marketplace-Analytics/
 │
 ├── 02_Python/
 │   └── 01_Data_Exploration.ipynb
@@ -99,16 +94,15 @@ Ecommerce_Marketplace_Analytics/
 │   └── 07_Business_Insights.sql
 │
 ├── 04_PowerBI/
-│   └── Ecommerce_Marketplace_Analytics.pbix
+│   └── README.md
 │
 ├── 05_Reports/
-│   └── Business_Insights_Report.docx
+│   ├── Business_Insights_Report.docx
+│   └── Dashboard_Screenshots/
+│       └── Six dashboard screenshots
 │
-├── 06_Documentation/
-│
+├── .gitignore
 └── README.md
-```
-
 ## How to Explore the Project
 
 1. Review the Python notebook for data exploration and cleaning.
