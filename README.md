@@ -117,19 +117,19 @@ The project demonstrates an end-to-end analytics workflow, from raw data prepara
 ## Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](05_Reports/Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview](05_Reports/Dashboard_Screenshots/01_Executive_Overview.PNG)
 
 ### 2. Sales & Revenue Analysis
-![Sales & Revenue Analysis](05_Reports/Dashboard_Screenshots/02_Sales_Revenue_Analysis.png)
+![Sales & Revenue Analysis](05_Reports/Dashboard_Screenshots/02_Sales_Revenue_Analysis.PNG)
 
 ### 3. Customer Analysis
-![Customer Analysis](05_Reports/Dashboard_Screenshots/03_Customer_Analysis.png)
+![Customer Analysis](05_Reports/Dashboard_Screenshots/03_Customer_Analysis.PNG)
 
 ### 4. Product & Seller Analysis
-![Product & Seller Analysis](05_Reports/Dashboard_Screenshots/04_Product_Seller_Analysis.png)
+![Product & Seller Analysis](05_Reports/Dashboard_Screenshots/04_Product_Seller_Analysis.PNG)
 
 ### 5. Delivery & Customer Satisfaction
-![Delivery & Customer Satisfaction](05_Reports/Dashboard_Screenshots/05_Delivery_Customer_Satisfaction.png)
+![Delivery & Customer Satisfaction](05_Reports/Dashboard_Screenshots/05_Delivery_Customer_Satisfaction.PNG)
 
 ### 6. Payment Analysis
-![Payment Analysis](05_Reports/Dashboard_Screenshots/06_Payment_Analysis.png)
+![Payment Analysis](05_Reports/Dashboard_Screenshots/06_Payment_Analysis.PNG)
